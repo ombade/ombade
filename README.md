@@ -13,13 +13,13 @@
 
 <p align="left"> <a href="https://twitter.com/ombade14" target="blank"><img src="https://img.shields.io/twitter/follow/ombade14?logo=twitter&style=for-the-badge" alt="ombade14" /></a> </p>
 
-- 🔭 I’m currently working on **Data Science**
 
-- 🌱 I’m currently learning **ML**
+
+- 🌱 I’m currently learning **DSA**
 
 - 👨‍💻 All of my projects are available at [https://ombade.github.io/portfolio.github.io/#/home](https://ombade.github.io/portfolio.github.io/#/home)
 
-- 💬 Ask me about **data science**
+- 💬 Ask me about ** Web Development and data science**
 
 - 📫 How to reach me **ombade364@gmail.com**
 
