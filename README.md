@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ombade.github.io/portfolio.github.io/#/home](https://ombade.github.io/portfolio.github.io/#/home)
 
-- 💬 Ask me about ** Web Development and data science**
+- 💬 Ask me about **Web Development and data science**
 
 - 📫 How to reach me **ombade364@gmail.com**
 
